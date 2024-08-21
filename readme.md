@@ -1,0 +1,1 @@
+# En esta repo dejare plasmado los proyectos que vaya haciendo en relacion a Next.js y OpenAI
